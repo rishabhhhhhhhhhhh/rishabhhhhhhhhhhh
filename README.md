@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rishabh Garg
 - 👀 I’m interested in Software Programming
 - 🌱 I’m currently learning C language...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Instagram- @rishabhhhhhhhhhhh
 
 <!---
