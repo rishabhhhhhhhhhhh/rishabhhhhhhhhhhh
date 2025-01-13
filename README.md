@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rishabh Garg
-- 👀 I’m interested in Data Science and Machine learning but knows a shit about it🥲...
-- 🌱 I’m currently learning C language...
+- 👀 I’m interested in Data Science and Machine learning.
 - 📫 How to reach me: Instagram- @rishabhhhhhhhhhhh
 
 <!---
